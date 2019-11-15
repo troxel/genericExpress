@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+# Remove node_modules for now
+node_modules
+
+# Add this to dependicies
+public/bootstrap-4.3.1-dist
+public/javascript/jquery.js
+
