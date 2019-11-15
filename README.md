@@ -1,2 +1,2 @@
 # RemotePlatformMonitor
-RPM a remote platform monitor for inclination, freeboard, leaks, smokes, etc. 
+RPM a server app to remote platform monitor clients for platform states  like inclination, freeboard, leaks, smokes, temperature, etc. 
